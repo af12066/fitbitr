@@ -14,7 +14,8 @@ Imports:
     tidyr,
     httr,
     jsonlite,
-    data.table
+    data.table,
+    httpuv
 Suggests:
     testthat
 RoxygenNote: 5.0.1
