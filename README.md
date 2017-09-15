@@ -16,6 +16,7 @@ If you set the following variables as a global variable, this package use these 
 # As a global variable
 FITBIT_KEY    <- "XXXX"
 FITBIT_SECRET <- "XXXXXXXXXXXXXXXXXX"
+FITBIT_CALLBACK <- "XXXXXXXXXXXXXXXXXX"
 ```
 
 The priority of these keys to 
